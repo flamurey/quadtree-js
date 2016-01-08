@@ -1,6 +1,6 @@
 # quadtree-js
 
-This is forked project from https://github.com/timohausmann/quadtree-js/
+This project is forked from https://github.com/timohausmann/quadtree-js/
 
 ## Differences
 
